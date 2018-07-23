@@ -37,7 +37,7 @@
 */
 
 
-#include "SparkFun_SGP30_Arduino_Library.h"
+#include "arduino_SGP30.h"
 
 
 //Constructor

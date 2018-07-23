@@ -37,8 +37,8 @@
 */
 
 
-#ifndef SparkFun_SGP30_Arduino_Library_h
-#define SparkFun_SGP30_Arduino_Library_h
+#ifndef arduino_SGP30_h
+#define arduino_SGP30_h
 
 #include "Arduino.h"
 #include <Wire.h>
